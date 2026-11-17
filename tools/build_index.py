@@ -10,7 +10,7 @@ import sys
 import yaml
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-STD = ROOT / "standards"
+BASE = ROOT / "baselines"
 
 
 def fmt_amount(it):
@@ -31,8 +31,8 @@ def fmt_amount(it):
 def main():
     today = sys.argv[1] if len(sys.argv) > 1 else datetime.date.today().isoformat()
     docs = {}
-    for f in sorted(STD.rglob("*.yaml")):
-        doc_dir = f.parent.relative_to(STD).as_posix()
+    for f in sorted(BASE.rglob("*.yaml")):
+        doc_dir = f.parent.relative_to(BASE).as_posix()
         data = yaml.safe_load(f.read_text(encoding="utf-8"))
         data["_version"] = f.stem
         docs.setdefault(doc_dir, []).append(data)

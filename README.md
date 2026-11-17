@@ -1,4 +1,4 @@
-# minna-budget-standards
+# minna-budget-baseline
 
 政府機關、工協會所訂之經費編列基準及產業薪資行情之結構化資料庫，供撰寫政府計畫、獎補助案及企業計畫之「經費編列」時查用。一律以最新版為準。
 
@@ -7,7 +7,7 @@
 ## 1 資料夾分類
 
 ```
-standards/
+baselines/
   central/                中央機關
     dgbas/                行政院主計總處（出席費及稿費、共同性費用、出差旅費）
     dgpa/                 行政院人事行政總處（講座鐘點費）
@@ -42,4 +42,4 @@ BACKLOG.md                待收集
 
 ## 3 資料格式
 
-見 `schema/standard.schema.md`。
+見 `schema/baseline.schema.md`。
