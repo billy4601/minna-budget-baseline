@@ -9,6 +9,9 @@ source:
   url: https://www.moea.gov.tw/MNS/doa/content/ContentDesc.aspx?menu_id=4585
   type: official                         # 經濟部會計處主計法規頁，2026-11-17 頁面更新，所附檔案仍為本版
   retrieved: 2026-11-17
+  archive: central/moea/commissioned-plan/2021-10-29.pdf
+  sha256: b1c296cf0894a7f33bc6adedfe66f4d8609aa7e5ebca5cc0289b5656c0c7a4df
+fulltext: 自動擷取初稿
 status: 確認
 supersedes: 2016-06-01
 items:

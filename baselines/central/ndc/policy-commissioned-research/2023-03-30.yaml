@@ -6,9 +6,12 @@ version_date: 2023-03-30
 effective_date:
 applies_to: [行政院所屬各機關之行政及政策類委託研究計畫]
 source:
-  url: https://www.laws.taipei.gov.tw/lawatt/Law/A040030001020300-20230330-1000-001.pdf
-  type: repost
+  url: https://theme.ndc.gov.tw/lawout/LawContent.aspx?id=GL000020
+  type: official                     # 國發會主管法規共用系統
   retrieved: 2026-11-17
+  archive: central/ndc/policy-commissioned-research/2023-03-30.pdf
+  sha256: 2bb9aa5f4bd345c845eb2d09ea18e20fda79e373b11e8221acb1ed1a4b718a05
+fulltext: 自動擷取初稿
 status: 確認                           # 2026-11-17 國發會主管法規系統（theme.ndc.gov.tw，id=GL000020）所載修正日期仍為 112-03-30
 items:
   - category: 研究人員費
@@ -32,5 +35,5 @@ items:
     unit: 元/月
     max: 24000
 notes:
-  - 官方原文在國發會主管法規共用系統（theme.ndc.gov.tw，id=GL000020）。
+  - 修正對照表另存於 Google Drive：central/ndc/policy-commissioned-research/2023-03-30_修正對照表.pdf。
   - 其餘項目待讀全文後補。

@@ -4,12 +4,13 @@ issuer: 行政院主計總處
 document_no:
 date: 2020-02
 applies_to_version: 2020-01-01                # 編於 109-01-01 生效版之後；114-01-01 新版已再修正
-validity: 部分適用
+validity: 停止適用
+superseded_by: 2026-03_解釋彙編
 source:
   url: https://www.dgbas.gov.tw/public/Data/0729175133J2042CJ5.pdf
   type: official
   retrieved: 2026-11-17
-status: 確認                                   # 2026-11-17 查無較新之修編版
+status: 確認
 key_points:
   - 交通費依實際搭乘之交通工具及實際支付金額報支（例：高鐵早鳥票、自由座以實付優惠票價報支）。
   - 因公搭乘高鐵之優惠措施，應以優惠後票價報支，或將優惠差價回饋抵減差旅費。
