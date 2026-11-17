@@ -73,3 +73,19 @@ note:
 ```
 
 基準修正後，原依舊條文所作之解釋可能停止適用（主計總處常於彙編中註明「自某日起停止適用」）；收錄時應比對現行版，`validity` 據實標示。
+
+## 4 條文全文及原始檔案
+
+- 條文全文：轉成 Markdown，放在同版本 YAML 旁，檔名相同（例：`2027-01-01.yaml` 旁之 `2027-01-01.md`）。全文照原文逐字轉錄，不改寫、不摘要；表格轉為 Markdown 表格；文首註明文件名稱、字號、生效日及來源網址。
+- 原始檔案（PDF、ODT、DOC 等）不放 repo，存放於 Google Drive，路徑結構與 `baselines/` 相同。YAML 之 `source` 增列：
+
+```yaml
+source:
+  url: https://...
+  type: official
+  retrieved: YYYY-MM-DD
+  archive: <Google Drive 中之相對路徑>     # 例：central/dgbas/domestic-travel/2025-01-01.pdf
+  sha256: <原始檔案之 SHA-256>             # 用以確認存檔未經更動
+```
+
+- 是否可將全文放入公開 repo，依著作權判斷：法令、公文（著作權法第 9 條）可放；其他著作（含受政府委託完成之報告）須確認權利歸屬或開放授權後再放，未確認前只存連結與摘錄數值，原始檔案仍可存入 Google Drive 供自用。
