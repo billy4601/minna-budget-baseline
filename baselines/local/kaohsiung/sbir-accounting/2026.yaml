@@ -9,6 +9,9 @@ source:
   url: https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/490/RelFile/80518/523868/04eaf90f-c5a7-45c9-abbd-4028d88bc213.pdf
   type: official
   retrieved: 2026-11-17
+  archive: local/kaohsiung/sbir-accounting/2026.pdf
+  sha256: 49ccf7937e64af43f7ac283b535f86f07963b6e9c7d718784e32b170840284a2
+fulltext: 自動擷取初稿
 status: 確認                           # 116 年度版尚未查得
 items:
   - category: 研究發展人員人事費

@@ -9,6 +9,9 @@ source:
   url: https://www.mol.gov.tw/1607/1632/1633/99195/
   type: official                     # 116 年調整新聞稿所載「由 29500 元調整」
   retrieved: 2026-11-17
+  archive: central/mol/minimum-wage/2026-01-01.html
+  sha256: e609367fc2e77c6c363b63425b53f9f16478df6c2daa121b376ad0598828d656
+fulltext: 自動擷取初稿
 status: 確認
 superseded_by: 2027-01-01
 items:

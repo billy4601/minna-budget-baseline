@@ -9,6 +9,8 @@ source:
   url: https://statdb.mol.gov.tw/html/s3/svy14/1435all.pdf
   type: official
   retrieved: 2026-11-17
+  archive: central/mol/occupational-wage-survey/2026-06.pdf
+  sha256: 175da8838f3efd11b28995f3f3b729b84863e8d4f96a32c7ab9fac6fd1f1d66c
 status: 待查證
 items: []
 notes:

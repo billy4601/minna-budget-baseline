@@ -9,6 +9,9 @@ source:
   url: https://6laws.net/6law/law3/機關委託資訊服務廠商評選及計費辦法.htm
   type: repost                       # 正式引用以全國法規資料庫為準
   retrieved: 2026-11-17
+  archive: central/pcc/information-service-fee/2025-05-23.html
+  sha256: b9bf1c930d6fe404f1777e5af36800e486ea57bd7513f4e6f5f33ff8c117b327
+fulltext: 自動擷取初稿
 status: 確認
 items:
   - category: 直接薪資

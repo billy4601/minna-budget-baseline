@@ -9,6 +9,9 @@ source:
   url: https://service.moea.gov.tw/EE514/wSite/public/Attachment/00106/f1747725529991.pdf
   type: official
   retrieved: 2026-11-17
+  archive: central/moea/a-plus-industry-rd/2025.pdf
+  sha256: 7a030480fafdec99903fda4007df4a05e3fddc1dc39b508abf07d2dda0f9bd7d
+fulltext: 自動擷取初稿
 status: 推論
 items:
   - category: 創新或研究發展人員之人事費

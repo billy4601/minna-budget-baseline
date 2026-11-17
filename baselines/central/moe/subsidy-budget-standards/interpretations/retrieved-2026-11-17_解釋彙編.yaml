@@ -9,6 +9,8 @@ source:
   url: https://ws.moe.edu.tw/001/Upload/14/relfile/7207/77346/326e3d46-9778-47f0-8dc7-e7ef12bbf50c.pdf
   type: official
   retrieved: 2026-11-17
+  archive: central/moe/subsidy-budget-standards/interpretations/retrieved-2026-11-17_解釋彙編.pdf
+  sha256: 0f5f48753cb462735b0685b12acb36e4cbb7c3a05ba0fc60503f2b5dc60bcd8b
 status: 確認
 key_points:
   - 依政府採購法辦理者，經費依個案特性編列，不受本要點經費編列基準限制。

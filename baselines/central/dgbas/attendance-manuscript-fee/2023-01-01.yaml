@@ -9,6 +9,9 @@ source:
   url: https://law.dgbas.gov.tw/NewsContent.aspx?id=11497
   type: official
   retrieved: 2026-11-17
+  archive: central/dgbas/attendance-manuscript-fee/2023-01-01.html
+  sha256: 46556c1e8331de48c976e1031138b7f8cb9bffab001520a052cf889db33a7e8e
+fulltext: 自動擷取初稿
 status: 確認
 superseded_by: 2027-01-01
 items:

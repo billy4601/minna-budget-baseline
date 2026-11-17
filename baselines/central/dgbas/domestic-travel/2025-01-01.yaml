@@ -9,6 +9,9 @@ source:
   url: https://ws.dgbas.gov.tw/001/Upload/461/relfile/10693/234297/23-%E5%9C%8B%E5%85%A7%E5%87%BA%E5%B7%AE%E6%97%85%E8%B2%BB%E5%A0%B1%E6%94%AF%E8%A6%81%E9%BB%9E.pdf
   type: official                     # 主計總處預算編製作業手冊所附
   retrieved: 2026-11-17
+  archive: central/dgbas/domestic-travel/2025-01-01.pdf
+  sha256: d1ff2e671c70bdc1b535afa273e1cda2f3212c772a1b246628c4ac9bbf2f6954
+fulltext: 自動擷取初稿
 status: 確認                           # 2026-11-17 查無本版之後之修正
 items:
   - category: 差旅費

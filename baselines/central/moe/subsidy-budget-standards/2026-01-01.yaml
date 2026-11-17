@@ -9,6 +9,9 @@ source:
   url: https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031076/ch05/type2/gov40/num11/Eg.pdf
   type: official                     # 行政院公報第 031 卷第 076 期
   retrieved: 2026-11-17
+  archive: central/moe/subsidy-budget-standards/2026-01-01.pdf
+  sha256: bd83fad1495721a0cd8e14838779dc82b0f7c85722b8a68c5fcc4c59a1db8b0f
+fulltext: 自動擷取初稿
 status: 確認                           # 教育部主管法規系統沿革之最後一筆即本版
 items:
   - category: 人事費

@@ -9,6 +9,9 @@ source:
   url: https://www.dgpa.gov.tw/information?uid=83&pid=7971
   type: official
   retrieved: 2026-11-17
+  archive: central/dgpa/lecture-fee/2018-02-01.pdf
+  sha256: 06663e3ad0fe9dcb4ce96718007765ae252b1e0cb65bce7bc16d0f242128f57c
+fulltext: 自動擷取初稿
 status: 確認                           # 2026-11-17 查無 107 年以後之修正
 items:
   - category: 業務費

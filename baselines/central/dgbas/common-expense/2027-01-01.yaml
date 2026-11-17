@@ -9,6 +9,9 @@ source:
   url: https://ws.dgbas.gov.tw/001/Upload/461/relfile/10693/236317/10-共同性費用編列基準表.pdf
   type: official
   retrieved: 2026-11-17
+  archive: central/dgbas/common-expense/2027-01-01.pdf
+  sha256: b2e5a49f6415bb4eab50e31b303e5c70b4a731b204e0f4727e888f951a10b5d2
+fulltext: 自動擷取初稿
 status: 確認
 items:
   - category: 人事費

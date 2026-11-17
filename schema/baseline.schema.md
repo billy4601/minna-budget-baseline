@@ -77,6 +77,7 @@ note:
 ## 4 條文全文及原始檔案
 
 - 條文全文：轉成 Markdown，放在同版本 YAML 旁，檔名相同（例：`2027-01-01.yaml` 旁之 `2027-01-01.md`）。全文照原文逐字轉錄，不改寫、不摘要；表格轉為 Markdown 表格；文首註明文件名稱、字號、生效日及來源網址。
+- YAML 以 `fulltext` 標示全文狀態：`自動擷取初稿`（程式擷取，表格版面未整理）或 `已校對`（逐字核對原文、表格已轉為 Markdown 表格）。
 - 原始檔案（PDF、ODT、DOC 等）不放 repo，存放於 Google Drive，路徑結構與 `baselines/` 相同。YAML 之 `source` 增列：
 
 ```yaml
@@ -87,5 +88,7 @@ source:
   archive: <Google Drive 中之相對路徑>     # 例：central/dgbas/domestic-travel/2025-01-01.pdf
   sha256: <原始檔案之 SHA-256>             # 用以確認存檔未經更動
 ```
+
+- Google Drive 存檔資料夾同時存放擷取出之純文字（`<生效日>.txt`）及 `_manifest.json`（各檔之下載結果、大小、雜湊值）。
 
 - 是否可將全文放入公開 repo，依著作權判斷：法令、公文（著作權法第 9 條）可放；其他著作（含受政府委託完成之報告）須確認權利歸屬或開放授權後再放，未確認前只存連結與摘錄數值，原始檔案仍可存入 Google Drive 供自用。

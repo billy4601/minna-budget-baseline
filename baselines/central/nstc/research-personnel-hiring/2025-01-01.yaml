@@ -9,6 +9,9 @@ source:
   url: https://law.nstc.gov.tw/LawContent.aspx?id=FL028686
   type: official
   retrieved: 2026-11-17
+  archive: central/nstc/research-personnel-hiring/2025-01-01.html
+  sha256: a64792793111bb0783963788edd334303535aef035d0fa5f7e5692fdd790722c
+fulltext: 自動擷取初稿
 status: 確認                           # 2026-11-17 查國科會主管法規系統，仍為現行版
 supersedes: 2024-01-01
 items:

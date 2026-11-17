@@ -9,6 +9,8 @@ source:
   url: https://www.tissa.org.tw/News/Detail/6123
   type: official                         # 公會網站
   retrieved: 2026-11-17
+  archive: private/tissa/information-service-estimation/2026.html
+  sha256: d8d333767420bb28aaeb4553416aadd42da0917707f74f331880d205690d3b51
 status: 確認
 items:
   - category: 人月報價

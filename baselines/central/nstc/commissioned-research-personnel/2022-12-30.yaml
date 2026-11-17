@@ -9,6 +9,9 @@ source:
   url: https://law.nstc.gov.tw/LawContent.aspx?media=print&id=GL000018
   type: official
   retrieved: 2026-11-17
+  archive: central/nstc/commissioned-research-personnel/2022-12-30.html
+  sha256: f0064747ce0f0e9ea5353ae232090b3e02b59abad1b133faa42d649bfaa8f932
+fulltext: 自動擷取初稿
 status: 確認                           # 2026-11-17 查國科會主管法規系統，仍為現行版
 items:
   - category: 人事費
