@@ -11,4 +11,5 @@
 7. 民間薪資報告受著作權保護：只摘錄所需數值並註明出處，不轉載全文或表格。
 8. 不在 repo 存放絕對路徑或個人／機器專屬名稱。
 9. 修改資料後執行 `python3 tools/build_index.py` 更新 `INDEX.md`，再 commit 並推送 main。
-10. `BACKLOG.md` 記錄待收集項目；收錄完成即移除該項。
+10. 解釋函、解釋彙編、問答集一併收錄，格式依 `schema/baseline.schema.md` 第 3 節；收錄時比對現行版基準，標示 `validity`。
+11. `BACKLOG.md` 記錄待收集項目；收錄完成即移除該項。

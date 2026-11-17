@@ -12,12 +12,12 @@
 | `central/dgpa/lecture-fee` | 講座鐘點費支給表 | 院授人給字第1070030976號 | 2018-02-01 | 確認 |
 | `central/moe/subsidy-budget-standards` | 教育部補（捐）助及委辦計畫經費編列基準表（教育部補（捐）助及委辦經費核撥結報作業要點第四點附件二） | 臺教會（三）字第1144400283A號 | 2026-01-01 | 確認 |
 | `central/moea/a-plus-industry-rd` | 經濟部 A+ 企業創新研發淬鍊計畫——專案類計畫 計畫管理作業手冊（業界科專） | — | 2025 | 推論 |
-| `central/moea/commissioned-plan` | 經濟部及所屬機關委辦計畫預算編列基準 | 經計字第11004024660號 | 2021-10-29 | 待查證 |
+| `central/moea/commissioned-plan` | 經濟部及所屬機關委辦計畫預算編列基準 | 經計字第11004024660號 | 2021-10-29 | 確認 |
 | `central/mohw/social-welfare-commissioned-research` | 衛生福利部社會福利政策類委託研究計畫經費編列基準表 | 衛部護字第1141461227號 | 2025-12-02 | 確認 |
 | `central/mohw/subsidy-sci-tech` | 衛生福利部補（捐）助科技發展計畫經費編列基準及使用範圍 | 衛部科字第1144060525號 | 2026-01-01 | 確認 |
 | `central/mol/minimum-wage` | 最低工資（115 年） | — | 2026-01-01 | 確認 |
 | `central/mol/occupational-wage-survey` | 職類別薪資調查報告（資料時期 114 年 7 月） | — | 2026-06 | 待查證 |
-| `central/ndc/policy-commissioned-research` | 行政院所屬各機關行政及政策類委託研究計畫經費編列原則及基準 | 院授發社字第1121300634號 | 2023-03-30 | 待查證 |
+| `central/ndc/policy-commissioned-research` | 行政院所屬各機關行政及政策類委託研究計畫經費編列原則及基準 | 院授發社字第1121300634號 | 2023-03-30 | 確認 |
 | `central/nstc/commissioned-research-personnel` | 國家科學及技術委員會委託研究計畫人事費及管理費編列基準 | 科會綜字第1110078944號 | 2022-12-30 | 確認 |
 | `central/nstc/research-personnel-hiring` | 國家科學及技術委員會補助專題研究計畫研究人力約用注意事項 | 科會綜字第1130073511號 | 2025-01-01 | 確認 |
 | `central/pcc/information-service-fee` | 機關委託資訊服務廠商評選及計費辦法 | 工程企字第1140100164號 | 2025-05-23 | 確認 |
@@ -135,10 +135,17 @@
 | 駕駛自用機車 | 2 元/公里 | `central/dgbas/domestic-travel` | 2025-01-01 |
 | 交通費（飛機、高鐵、火車、船舶） | — | `central/dgbas/domestic-travel` | 2025-01-01 |
 
+### 旅運費
+
+| 項目 | 金額 | 文件 | 版本 |
+|---|---|---|---|
+| 科技發展類（研究發展）旅運費 | 43500 元/人年 | `central/moea/commissioned-plan` | 2021-10-29 |
+
 ### 材料費
 
 | 項目 | 金額 | 文件 | 版本 |
 |---|---|---|---|
+| 科技發展類（研究發展）材料費 | 120000 元/人年 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 消耗性器材及原材料費 | ≤ 150000 元/人年 | `local/changhua/sbir-accounting` | 2025 |
 
 ### 業務費
@@ -157,6 +164,10 @@
 | 臨時工作人員、工讀費 | — | `central/moe/subsidy-budget-standards` | 2026-01-01 |
 | 資料蒐集費 | ≤ 30000 元 | `central/moe/subsidy-budget-standards` | 2026-01-01 |
 | 半日膳費 | ≤ 160 元/人 | `central/moe/subsidy-budget-standards` | 2026-01-01 |
+| 行政政策類問卷調查費 | ≤ 300 元/份 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類雜支費 | ≤ 0.05 一至七項合計比率 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）一般事務費 | ≤ 25000 元/人年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）業務費其他 | ≤ 0.05 比率 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 資料蒐集費 | ≤ 100000 元 | `central/mohw/social-welfare-commissioned-research` | 2025-12-02 |
 | 臨時工資 | — | `central/mohw/social-welfare-commissioned-research` | 2025-12-02 |
 | 膳費（各類會議） | ≤ 140 元/人次 | `central/mohw/social-welfare-commissioned-research` | 2025-12-02 |
@@ -192,10 +203,22 @@
 | 行政政策類專任助理研究員級 | ≤ 91000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 行政政策類專任研究助理 | ≤ 44000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 行政政策類兼任研究員級 | ≤ 24000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類兼任副研究員級 | ≤ 22000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 行政政策類兼任助理研究員級 | ≤ 18000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 行政政策類兼任研究助理 | ≤ 12000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
-| 專任研究人員年終獎金 | ≤ 1.375 月 | `central/moea/commissioned-plan` | 2021-10-29 |
-| 科技發展類計畫主持人（委辦總經費 5000 萬元以上） | 1688404 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類專任研究人員年終獎金 | ≤ 1.375 月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類研究人員費占計畫經費比率上限 | — | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）專任計畫主持人 | 1688404 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）專任協同主持人 | 1524245 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）專任研究員級 | 1301477 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）專任副研究員級 | 1060316 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）專任助理研究員級 | 760703 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）專任研究助理級 | 505596 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）兼任計畫主持人（學校教授級） | 35386 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）兼任研究員級 | 20815 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）兼任副研究員級 | 17010 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）兼任助理研究員級 | 11040 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）兼任研究助理級 | 7500 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 專任研究員級 | ≤ 112000 元/月 | `central/ndc/policy-commissioned-research` | 2023-03-30 |
 | 專任副研究員級 | ≤ 101000 元/月 | `central/ndc/policy-commissioned-research` | 2023-03-30 |
 | 專任助理研究員級 | ≤ 91000 元/月 | `central/ndc/policy-commissioned-research` | 2023-03-30 |
@@ -213,6 +236,8 @@
 
 | 項目 | 金額 | 文件 | 版本 |
 |---|---|---|---|
+| 行政政策類行政管理費 | ≤ 0.1 一至八項合計比率 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類（研究發展）管理費 | — | `central/moea/commissioned-plan` | 2021-10-29 |
 | 行政管理費 | ≤ 0.1 比率 | `central/mohw/social-welfare-commissioned-research` | 2025-12-02 |
 | 管理費 | ≤ 0.15 比率 | `central/mohw/subsidy-sci-tech` | 2026-01-01 |
 | 管理費 | ≤ 0.1 各項經費合計之比率 | `central/nstc/commissioned-research-personnel` | 2022-12-30 |
@@ -222,6 +247,12 @@
 | 項目 | 金額 | 文件 | 版本 |
 |---|---|---|---|
 | 管理費用 | ≤ 1.0 比率 | `central/pcc/information-service-fee` | 2025-05-23 |
+
+### 維護費
+
+| 項目 | 金額 | 文件 | 版本 |
+|---|---|---|---|
+| 自有設備維護費 | 0.05 購入成本比率 | `central/moea/commissioned-plan` | 2021-10-29 |
 
 ### 行政管理費
 
@@ -237,4 +268,16 @@
 | 個人電腦（含筆記型電腦）、文書編輯軟體 | — | `central/dgbas/common-expense` | 2027-01-01 |
 | 公務小客車（燃油，中央三級機關首長及公務小客車） | ≤ 850000 元/輛 | `central/dgbas/common-expense` | 2027-01-01 |
 | 公務小客車（電動，中央三級機關首長及公務小客車） | ≤ 1850000 元/輛 | `central/dgbas/common-expense` | 2027-01-01 |
+
+## 4 解釋函及解釋彙編
+
+| 路徑 | 類型 | 日期 | 字號或名稱 | 效力 | 狀態 |
+|---|---|---|---|---|---|
+| `central/dgbas/attendance-manuscript-fee` | 函釋 | 2004-05-19 | 處忠字第0930003120號 | 待確認 | 推論 |
+| `central/dgbas/domestic-travel` | 解釋彙編 | 2020-02 | 國內出差旅費報支要點暨各機關派員參加國內各項訓練或講習費用補助要點解釋彙編（109 年 2 月修編） | 部分適用 | 確認 |
+| `central/dgbas/overseas-travel` | 解釋彙編 | 2018-04 | 國外出差旅費報支要點解釋彙編（103 年 1 月編訂，107 年 4 月修編） | 部分適用 | 確認 |
+| `central/dgpa/lecture-fee` | 函釋 | 1998-05-11 | 局給字第009403號 | 現行 | 確認 |
+| `central/dgpa/lecture-fee` | 函釋 | 2014-03-06 | 總處培字第10300251351號 | 待確認 | 確認 |
+| `central/dgpa/lecture-fee` | 函釋 | 2018-05-02 | 總處給字第10700397081號 | 現行 | 確認 |
+| `central/moe/subsidy-budget-standards` | 解釋彙編 | — | 教育部補（捐）助及委辦經費核撥結報作業要點解釋彙編（未收錄相關問答） | 待確認 | 確認 |
 

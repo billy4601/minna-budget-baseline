@@ -6,10 +6,10 @@ version_date: 2021-10-29
 effective_date:
 applies_to: [經濟部及所屬機關之委辦計畫（行政政策類、科技發展類、輔助行政類、代辦業務類）]
 source:
-  url: https://www.moea.gov.tw/mns/doa/content/wHandMenuFile.ashx?menu_id=4585&file_id=11389
-  type: official
+  url: https://www.moea.gov.tw/MNS/doa/content/ContentDesc.aspx?menu_id=4585
+  type: official                         # 經濟部會計處主計法規頁，2026-11-17 頁面更新，所附檔案仍為本版
   retrieved: 2026-11-17
-status: 待查證                           # 經濟部網站 2026-11-17 無法開啟，未能確認是否已有新版；金額取自搜尋摘錄
+status: 確認
 supersedes: 2016-06-01
 items:
   - category: 研究人員費
@@ -33,6 +33,10 @@ items:
     unit: 元/月
     max: 24000
   - category: 研究人員費
+    item: 行政政策類兼任副研究員級
+    unit: 元/月
+    max: 22000
+  - category: 研究人員費
     item: 行政政策類兼任助理研究員級
     unit: 元/月
     max: 18000
@@ -41,14 +45,98 @@ items:
     unit: 元/月
     max: 12000
   - category: 研究人員費
-    item: 專任研究人員年終獎金
+    item: 行政政策類專任研究人員年終獎金
     unit: 月
     max: 1.375
-    note: 1.5 個月 × 11/12
+    note: 1.5 個月 × 11/12；計畫期程以 11 個月為原則
   - category: 研究人員費
-    item: 科技發展類計畫主持人（委辦總經費 5000 萬元以上）
+    item: 行政政策類研究人員費占計畫經費比率上限
+    note: 150 萬元以下部分 66%；150 萬至 300 萬元 63%；300 萬至 500 萬元 60%；500 萬至 1000 萬元 55%；超過 1000 萬元部分 50%
+  - category: 業務費
+    item: 行政政策類問卷調查費
+    unit: 元/份
+    max: 300
+    note: 例示上限
+  - category: 業務費
+    item: 行政政策類雜支費
+    unit: 一至七項合計比率
+    max: 0.05
+  - category: 管理費
+    item: 行政政策類行政管理費
+    unit: 一至八項合計比率
+    max: 0.10
+    note: 簽約學校或學術團體規定超過者，經委託機關核定得依其規定
+  - category: 研究人員費
+    item: 科技發展類（研究發展）專任計畫主持人
     unit: 元/年
     value: 1688404
+    note: 委辦總經費 5000 萬元以上；不足 5000 萬元者 1535976 元；基準內含薪資、獎金、退休、保險等
+  - category: 研究人員費
+    item: 科技發展類（研究發展）專任協同主持人
+    unit: 元/年
+    value: 1524245
+  - category: 研究人員費
+    item: 科技發展類（研究發展）專任研究員級
+    unit: 元/年
+    value: 1301477
+  - category: 研究人員費
+    item: 科技發展類（研究發展）專任副研究員級
+    unit: 元/年
+    value: 1060316
+  - category: 研究人員費
+    item: 科技發展類（研究發展）專任助理研究員級
+    unit: 元/年
+    value: 760703
+  - category: 研究人員費
+    item: 科技發展類（研究發展）專任研究助理級
+    unit: 元/年
+    value: 505596
+  - category: 研究人員費
+    item: 科技發展類（研究發展）兼任計畫主持人（學校教授級）
+    unit: 元/月
+    value: 35386
+    note: 副教授及助理教授級 28917 元；財團法人、公司或公會受託者不得由兼任人員擔任主持人
+  - category: 研究人員費
+    item: 科技發展類（研究發展）兼任研究員級
+    unit: 元/月
+    value: 20815
+  - category: 研究人員費
+    item: 科技發展類（研究發展）兼任副研究員級
+    unit: 元/月
+    value: 17010
+  - category: 研究人員費
+    item: 科技發展類（研究發展）兼任助理研究員級
+    unit: 元/月
+    value: 11040
+  - category: 研究人員費
+    item: 科技發展類（研究發展）兼任研究助理級
+    unit: 元/月
+    value: 7500
+  - category: 管理費
+    item: 科技發展類（研究發展）管理費
+    note: 以直接參與人員人事費累退計算：2000 萬元以下 48%；2000 萬至 6000 萬元 38%；6000 萬至 1.5 億元 33%；1.5 億至 3 億元 30%；超過 3 億元 28%
+  - category: 業務費
+    item: 科技發展類（研究發展）一般事務費
+    unit: 元/人年
+    max: 25000
+  - category: 業務費
+    item: 科技發展類（研究發展）業務費其他
+    unit: 比率
+    max: 0.05
+    note: 基數為第四至九項及第十三項業務費總額
+  - category: 材料費
+    item: 科技發展類（研究發展）材料費
+    unit: 元/人年
+    value: 120000
+  - category: 旅運費
+    item: 科技發展類（研究發展）旅運費
+    unit: 元/人年
+    value: 43500
+    note: 國內旅費 ≤ 15000、國外旅費 ≤ 25000；研究員級以上比照簡任級，副研究員級以下比照薦任級
+  - category: 維護費
+    item: 自有設備維護費
+    unit: 購入成本比率
+    value: 0.05
 notes:
-  - 科技發展類之兼任研究人員費、管理費（採級距累退）等待讀全文後補。
-  - 研究人員職級比照國科會委託研究計畫人事費及管理費編列基準。
+  - 設備使用費依購置成本、折舊年數（5 年）、臺灣銀行基本放款利率及計畫使用比例計算。
+  - 科技發展類之推廣服務、人才培訓兩類及輔助行政類（表四）待補。

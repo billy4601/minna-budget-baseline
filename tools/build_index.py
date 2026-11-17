@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""產生 INDEX.md：各基準之現行版、已公布未生效版，以及依用途別之項目總表。
+"""產生 INDEX.md：各基準之現行版、已公布未生效版、依用途別之項目總表，以及解釋函。
 
 用法：python3 tools/build_index.py [基準日 YYYY-MM-DD]（預設今天）
 """
@@ -30,8 +30,14 @@ def fmt_amount(it):
 
 def main():
     today = sys.argv[1] if len(sys.argv) > 1 else datetime.date.today().isoformat()
-    docs = {}
+    docs, interps = {}, {}
     for f in sorted(BASE.rglob("*.yaml")):
+        if f.parent.name == "interpretations":
+            doc_dir = f.parent.parent.relative_to(BASE).as_posix()
+            data = yaml.safe_load(f.read_text(encoding="utf-8"))
+            data["_file"] = f.stem
+            interps.setdefault(doc_dir, []).append(data)
+            continue
         doc_dir = f.parent.relative_to(BASE).as_posix()
         data = yaml.safe_load(f.read_text(encoding="utf-8"))
         data["_version"] = f.stem
@@ -77,8 +83,16 @@ def main():
             out.append(f"| {it['item']} | {fmt_amount(it)} | `{doc_dir}` | {d['_version']} |")
         out.append("")
 
+    out += ["## 4 解釋函及解釋彙編", "", "| 路徑 | 類型 | 日期 | 字號或名稱 | 效力 | 狀態 |", "|---|---|---|---|---|---|"]
+    for doc_dir in sorted(interps):
+        for d in sorted(interps[doc_dir], key=lambda x: x["_file"]):
+            out.append(f"| `{doc_dir}` | {d['type']} | {d.get('date') or '—'} | {d.get('document_no') or d['title']} | {d['validity']} | {d['status']} |")
+    if not interps:
+        out.append("| — | — | — | — | — | — |")
+    out.append("")
+
     (ROOT / "INDEX.md").write_text("\n".join(out) + "\n", encoding="utf-8")
-    print(f"[OK] INDEX.md：{len(current)} 份現行、{len(upcoming)} 份未生效")
+    print(f"[OK] INDEX.md：{len(current)} 份現行、{len(upcoming)} 份未生效、{sum(len(v) for v in interps.values())} 則解釋")
 
 
 if __name__ == "__main__":

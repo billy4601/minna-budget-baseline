@@ -9,7 +9,7 @@ source:
   url: https://www.laws.taipei.gov.tw/lawatt/Law/A040030001020300-20230330-1000-001.pdf
   type: repost
   retrieved: 2026-11-17
-status: 待查證                         # 國發會主管法規系統 2026-11-17 連不上，未能確認是否已有新版
+status: 確認                           # 2026-11-17 國發會主管法規系統（theme.ndc.gov.tw，id=GL000020）所載修正日期仍為 112-03-30
 items:
   - category: 研究人員費
     item: 專任研究員級
