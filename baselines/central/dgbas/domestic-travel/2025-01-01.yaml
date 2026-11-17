@@ -1,0 +1,40 @@
+title: 國內出差旅費報支要點
+issuer: 行政院（主計總處）
+kind: 經費基準
+document_no: 院授主預字第1130101358號
+version_date: 2024-05-16
+effective_date: 2025-01-01
+applies_to: [中央政府各機關員工國內出差, 多數補助及委辦計畫之國內差旅費]
+source:
+  url: https://ws.dgbas.gov.tw/001/Upload/461/relfile/10693/234297/23-%E5%9C%8B%E5%85%A7%E5%87%BA%E5%B7%AE%E6%97%85%E8%B2%BB%E5%A0%B1%E6%94%AF%E8%A6%81%E9%BB%9E.pdf
+  type: official                     # 主計總處預算編製作業手冊所附
+  retrieved: 2026-11-17
+status: 確認                           # 2026-11-17 查無本版之後之修正
+items:
+  - category: 差旅費
+    item: 住宿費（平日）
+    unit: 元/日
+    max: 3500
+    note: 不分職等；檢據覈實報支；出差地點距機關 60 公里以上且有住宿事實
+  - category: 差旅費
+    item: 住宿費（假日）
+    unit: 元/日
+    max: 4500
+  - category: 差旅費
+    item: 雜費
+    unit: 元/日
+    max: 400
+  - category: 差旅費
+    item: 駕駛自用汽車
+    unit: 元/公里
+    value: 3
+  - category: 差旅費
+    item: 駕駛自用機車
+    unit: 元/公里
+    value: 2
+  - category: 差旅費
+    item: 交通費（飛機、高鐵、火車、船舶）
+    note: 部會首長、副首長得乘商務艙（車廂），其餘人員乘經濟（標準）座位；其餘交通工具覈實報支
+notes:
+  - 同一地點出差超過 1 個月未滿 2 個月部分，住宿費按八折；2 個月以上部分按七折。
+  - 前一版為 108-11-26 院授主預字第1080102859號（自 109-01-01 生效），住宿費依職等分 2400／2000 元。

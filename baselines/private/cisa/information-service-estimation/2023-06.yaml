@@ -1,0 +1,37 @@
+title: 中華民國資訊軟體協會資訊服務委外經費估算原則（112 年 6 月修訂）
+issuer: 中華民國資訊軟體協會（CISA）
+kind: 市場行情
+document_no:
+version_date: 2023-06
+effective_date:
+applies_to: [政府資訊服務委外之預算估算]
+source:
+  url: https://www.phhcc.gov.tw/uploaddowndoc?file=other/202307141504080.pdf&filedisplay=%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E8%B3%87%E8%A8%8A%E8%BB%9F%E9%AB%94%E5%8D%94%E6%9C%83%E8%B3%87%E8%A8%8A%E6%9C%8D%E5%8B%99%E5%A7%94%E5%A4%96%E7%B6%93%E8%B2%BB%E4%BC%B0%E7%AE%97%E5%8E%9F%E5%89%87.pdf&flag=doc
+  type: repost
+  retrieved: 2026-11-17
+status: 確認
+superseded_by: 中華民國資訊軟體服務商業同業公會 115 年版（private/tissa/information-service-estimation/2026）
+items:
+  - category: 直接薪資
+    item: 中階主管（經理）——計畫主持人（62 中類電腦程式設計業）
+    unit: 元/月
+    value: 179946
+    note: 63 中類資訊服務業 226750
+  - category: 直接薪資
+    item: 專案管理師（62 中類）
+    unit: 元/月
+    value: 93345
+    note: 63 中類 132784
+  - category: 直接薪資
+    item: 資訊及通訊專業人員（62 中類）
+    unit: 元/月
+    value: 100575
+    note: 63 中類 143444
+  - category: 直接薪資
+    item: 資訊管理及維護技術員（62 中類）
+    unit: 元/月
+    value: 60018
+    note: 63 中類 71619
+notes:
+  - 以勞動部職類別薪資調查之資訊人員經常薪資為基礎；管理費率第二類不超過 90%、公費 15%，第三類 100%、25%。
+  - 113 年 6 月、114 年版存在（114 年版見 CISA 網站首頁標題），內容未收錄。

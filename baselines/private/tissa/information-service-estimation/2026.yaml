@@ -1,0 +1,107 @@
+title: 115 年資訊服務委外經費估算原則
+issuer: 中華民國資訊軟體服務商業同業公會（TISSA）
+kind: 市場行情
+document_no:
+version_date: 2026                       # 頁面資料更新日 2026-11-06；薪資調查期間 115 年 4 月至 5 月
+effective_date:
+applies_to: [政府資訊服務委外之預算估算, 計畫中資訊人力之人月單價佐證]
+source:
+  url: https://www.tissa.org.tw/News/Detail/6123
+  type: official                         # 公會網站
+  retrieved: 2026-11-17
+status: 確認
+items:
+  - category: 人月報價
+    item: 計畫主持人
+    unit: 元/人月
+    value: 471669
+    note: 第二類（M=90%、N=15%）；第一類 413681、第三類 533588
+  - category: 人月報價
+    item: 專案管理師（含經營管理顧問）
+    unit: 元/人月
+    value: 255271
+    note: 第二類；第一類 223083、第三類 289641
+  - category: 人月報價
+    item: 資訊系統分析及設計師
+    unit: 元/人月
+    value: 233090
+    note: 第二類；第一類 203337、第三類 264860
+  - category: 人月報價
+    item: 軟體開發及程式設計師
+    unit: 元/人月
+    value: 207486
+    note: 第二類；第一類 181502、第三類 235232
+  - category: 人月報價
+    item: 資料庫專業人員
+    unit: 元/人月
+    value: 222210
+    note: 第二類；第一類 193980、第三類 252355
+  - category: 人月報價
+    item: 網路專業人員
+    unit: 元/人月
+    value: 219751
+    note: 第二類；第一類 192651、第三類 248687
+  - category: 人月報價
+    item: 雲端地端整合架構管理人員
+    unit: 元/人月
+    value: 258214
+    note: 第二類；第一類 226912、第三類 291637
+  - category: 人月報價
+    item: 數據分析專業人員
+    unit: 元/人月
+    value: 241697
+    note: 第二類；第一類 211209、第三類 274253
+  - category: 人月報價
+    item: AI 分析專業人員
+    unit: 元/人月
+    value: 246940
+    note: 第二類；第一類 216431、第三類 279516
+  - category: 人月報價
+    item: UI/UX 設計專業人員
+    unit: 元/人月
+    value: 205109
+    note: 第二類；第一類 179306、第三類 232662
+  - category: 人月報價
+    item: 資安顧問專業人員
+    unit: 元/人月
+    value: 296501
+    note: 第二類；第一類 259497、第三類 336012
+  - category: 人月報價
+    item: 資安檢測專業人員
+    unit: 元/人月
+    value: 213075
+    note: 第二類；第一類 186152、第三類 241823
+  - category: 人月報價
+    item: 資安監控專業人員
+    unit: 元/人月
+    value: 195127
+    note: 第二類；第一類 170702、第三類 221208
+  - category: 人月報價
+    item: 軟體測試專業人員
+    unit: 元/人月
+    value: 186905
+    note: 第二類；第一類 163261、第三類 212152
+  - category: 人月報價
+    item: 資訊管理及維護技術員
+    unit: 元/人月
+    value: 182476
+    note: 第二類；第一類 159121、第三類 207414
+  - category: 人月報價
+    item: 一般辦公室事務人員
+    unit: 元/人月
+    value: 150897
+    note: 第二類；第一類 131819、第三類 171268
+  - category: 人月報價
+    item: 電話及網路客服人員
+    unit: 元/人月
+    value: 139531
+    note: 第二類；第一類 121863、第三類 158395
+  - category: 直接薪資
+    item: 雇主負擔之保險及提繳費（R3）
+    unit: 實際薪資比率
+    value: 0.197341
+    note: 勞保、就保、職災、墊償基金、勞退 6%、健保合計
+notes:
+  - 人月報價含直接薪資、管理費用及公費，不含其他直接費用及營業稅（5%）。人月以每月 22 日、每日 8 小時計。
+  - R1 上限 30%、R2 以 16% 估列；公費應以定額列示。
+  - 中華民國資訊軟體協會（CISA）網站 cisanet.org.tw 現轉址至本公會網站（推論：兩會已整併或更名，未查得官方說明）。

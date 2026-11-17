@@ -1,0 +1,44 @@
+title: 116 年度共同性費用編列基準表
+issuer: 行政院（主計總處）
+kind: 經費基準
+document_no:                             # 屬 116 年度總預算編製作業手冊
+version_date: 2027                       # 適用 116 年度預算
+effective_date: 2027-01-01
+applies_to: [中央政府各機關 116 年度預算編列, 補助及委辦計畫引用之資訊設備等基準]
+source:
+  url: https://ws.dgbas.gov.tw/001/Upload/461/relfile/10693/236317/10-共同性費用編列基準表.pdf
+  type: official
+  retrieved: 2026-11-17
+status: 確認
+items:
+  - category: 人事費
+    item: 約聘（僱）人員酬金
+    unit: 元/薪點
+    value: 139.1
+    note: 按核定薪點核實編列
+  - category: 業務費
+    item: 出席費
+    unit: 元/次
+    max: 2500
+    note: 與出席費及稿費支給要點自 116-01-01 起之 3000 元不一致（推論：本表於要點修正前編定，執行時依要點）
+  - category: 業務費
+    item: 講座鐘點費
+    note: 依講座鐘點費支給表；外聘國內專家學者 2000 元/人節
+  - category: 業務費
+    item: 辦公器具養護費
+    unit: 元/人年
+    value: 1048
+  - category: 設備及投資
+    item: 個人電腦（含筆記型電腦）、文書編輯軟體
+    note: 每年汰換以不超過員額 1/5 為原則
+  - category: 設備及投資
+    item: 公務小客車（燃油，中央三級機關首長及公務小客車）
+    unit: 元/輛
+    max: 850000
+  - category: 設備及投資
+    item: 公務小客車（電動，中央三級機關首長及公務小客車）
+    unit: 元/輛
+    max: 1850000
+notes:
+  - 本檔只摘錄計畫經費常用項目；其餘（議會、房舍修繕、車輛養護等）查原文。
+  - 一般房屋建築費及辦公室翻修費依工程會「116 年度一般房屋建築費及辦公室翻修費編列基準使用說明」。

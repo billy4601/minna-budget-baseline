@@ -1,0 +1,76 @@
+title: 國外出差旅費報支要點（含中央政府各機關派赴國外各地區出差人員生活費日支數額表）
+issuer: 行政院（主計總處）
+kind: 經費基準
+document_no: 院授主預字第1140101390號（要點）；院授主預字第1140103430號（日支數額表）
+version_date: 2025-05-13                 # 日支數額表 2025-10-31 修正
+effective_date: 2026-01-01
+applies_to: [中央政府各機關員工國外出差, 補助及委辦計畫之國外差旅費]
+source:
+  url: https://aa100.chihlee.edu.tw/var/file/2/1002/img/258651225.pdf
+  type: repost
+  retrieved: 2026-11-17
+status: 確認
+supersedes: 2022-07-14
+items:
+  - category: 國外差旅費
+    item: 生活費日支數額之劃分
+    note: 住宿費 70%、膳食費 20%、零用費 10%；返國當日按 30% 報支
+  - category: 國外差旅費
+    item: 日本東京
+    unit: 美元/日
+    value: 299
+  - category: 國外差旅費
+    item: 日本大阪
+    unit: 美元/日
+    value: 246
+  - category: 國外差旅費
+    item: 日本京都
+    unit: 美元/日
+    value: 282
+  - category: 國外差旅費
+    item: 日本名古屋
+    unit: 美元/日
+    value: 291
+  - category: 國外差旅費
+    item: 日本福岡
+    unit: 美元/日
+    value: 246
+  - category: 國外差旅費
+    item: 日本其他
+    unit: 美元/日
+    value: 209
+  - category: 國外差旅費
+    item: 韓國首爾
+    unit: 美元/日
+    value: 290
+  - category: 國外差旅費
+    item: 新加坡
+    unit: 美元/日
+    value: 452
+  - category: 國外差旅費
+    item: 美國紐約市
+    unit: 美元/日
+    value: 510
+    note: 9 月 1 日至 12 月 31 日為 580
+  - category: 國外差旅費
+    item: 美國其他
+    unit: 美元/日
+    value: 320
+  - category: 國外差旅費
+    item: 英國倫敦
+    unit: 美元/日
+    value: 510
+  - category: 國外差旅費
+    item: 德國其他
+    unit: 美元/日
+    value: 340
+  - category: 國外差旅費
+    item: 非率團人員禮品交際及雜費
+    unit: 元/人日
+    max: 1100
+    note: 原為 600 元
+notes:
+  - 本檔只摘錄常用城市；其他國家城市查日支數額表原文。表列國家未列之城市按該國「其他」；未列國家比照最近國家之「其他」。
+  - 大陸地區、香港及澳門另依其日支數額表（待收錄）。
+  - 匯率：有結匯水單依結匯匯率；無則依出差日前一日臺灣銀行賣出現金美元匯價；信用卡支付得依信用卡結算匯率。
+  - 前一版為 111-07-14 院授主預字第1110102303A號（未收錄金額）。

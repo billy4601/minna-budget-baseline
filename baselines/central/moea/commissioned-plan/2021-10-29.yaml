@@ -1,0 +1,54 @@
+title: 經濟部及所屬機關委辦計畫預算編列基準
+issuer: 經濟部
+kind: 經費基準
+document_no: 經計字第11004024660號
+version_date: 2021-10-29
+effective_date:
+applies_to: [經濟部及所屬機關之委辦計畫（行政政策類、科技發展類、輔助行政類、代辦業務類）]
+source:
+  url: https://www.moea.gov.tw/mns/doa/content/wHandMenuFile.ashx?menu_id=4585&file_id=11389
+  type: official
+  retrieved: 2026-11-17
+status: 待查證                           # 經濟部網站 2026-11-17 無法開啟，未能確認是否已有新版；金額取自搜尋摘錄
+supersedes: 2016-06-01
+items:
+  - category: 研究人員費
+    item: 行政政策類專任研究員級
+    unit: 元/月
+    max: 112000
+  - category: 研究人員費
+    item: 行政政策類專任副研究員級
+    unit: 元/月
+    max: 101000
+  - category: 研究人員費
+    item: 行政政策類專任助理研究員級
+    unit: 元/月
+    max: 91000
+  - category: 研究人員費
+    item: 行政政策類專任研究助理
+    unit: 元/月
+    max: 44000
+  - category: 研究人員費
+    item: 行政政策類兼任研究員級
+    unit: 元/月
+    max: 24000
+  - category: 研究人員費
+    item: 行政政策類兼任助理研究員級
+    unit: 元/月
+    max: 18000
+  - category: 研究人員費
+    item: 行政政策類兼任研究助理
+    unit: 元/月
+    max: 12000
+  - category: 研究人員費
+    item: 專任研究人員年終獎金
+    unit: 月
+    max: 1.375
+    note: 1.5 個月 × 11/12
+  - category: 研究人員費
+    item: 科技發展類計畫主持人（委辦總經費 5000 萬元以上）
+    unit: 元/年
+    value: 1688404
+notes:
+  - 科技發展類之兼任研究人員費、管理費（採級距累退）等待讀全文後補。
+  - 研究人員職級比照國科會委託研究計畫人事費及管理費編列基準。

@@ -1,0 +1,29 @@
+title: 經濟部 A+ 企業創新研發淬鍊計畫——專案類計畫 計畫管理作業手冊（業界科專）
+issuer: 經濟部產業技術司
+kind: 計畫規定
+document_no:
+version_date: 2025                       # 推論：附件檔名時間戳記為 2025 年 5 月
+effective_date:
+applies_to: [A+ 企業創新研發淬鍊計畫（業界科專）]
+source:
+  url: https://service.moea.gov.tw/EE514/wSite/public/Attachment/00106/f1747725529991.pdf
+  type: official
+  retrieved: 2026-11-17
+status: 推論
+items:
+  - category: 創新或研究發展人員之人事費
+    item: 編列方式
+    note: 依不同職級人員預計投入人月數及平均月薪編列；投入人月 = 當月投入專案時數 ÷ 當月應上班總時數
+  - category: 創新或研究發展人員之人事費
+    item: 待聘人員
+    unit: 研發人員及國際人才合計之比率
+    max: 0.30
+    note: 原則
+  - category: 創新或研究發展人員之人事費
+    item: 年終獎金
+    unit: 月
+    max: 2
+    note: 按月提列，不得超過實發數，依投入工時比例計算
+notes:
+  - 可認列薪資含本薪、主管加給、職務加給、專業津貼、加班費及年終獎金；加班費不得超過以固定月薪依勞基法倍率計算之金額。
+  - 其他科目（消耗性器材、設備使用費等）待補。

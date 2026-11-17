@@ -7,8 +7,12 @@
 | 路徑 | 文件 | 字號 | 版本 | 狀態 |
 |---|---|---|---|---|
 | `central/dgbas/attendance-manuscript-fee` | 中央政府各機關學校出席費及稿費支給要點 | 院授主預字第1110104008號 | 2023-01-01 | 確認 |
+| `central/dgbas/domestic-travel` | 國內出差旅費報支要點 | 院授主預字第1130101358號 | 2025-01-01 | 確認 |
+| `central/dgbas/overseas-travel` | 國外出差旅費報支要點（含中央政府各機關派赴國外各地區出差人員生活費日支數額表） | 院授主預字第1140101390號（要點）；院授主預字第1140103430號（日支數額表） | 2026-01-01 | 確認 |
 | `central/dgpa/lecture-fee` | 講座鐘點費支給表 | 院授人給字第1070030976號 | 2018-02-01 | 確認 |
 | `central/moe/subsidy-budget-standards` | 教育部補（捐）助及委辦計畫經費編列基準表（教育部補（捐）助及委辦經費核撥結報作業要點第四點附件二） | 臺教會（三）字第1144400283A號 | 2026-01-01 | 確認 |
+| `central/moea/a-plus-industry-rd` | 經濟部 A+ 企業創新研發淬鍊計畫——專案類計畫 計畫管理作業手冊（業界科專） | — | 2025 | 推論 |
+| `central/moea/commissioned-plan` | 經濟部及所屬機關委辦計畫預算編列基準 | 經計字第11004024660號 | 2021-10-29 | 待查證 |
 | `central/mohw/social-welfare-commissioned-research` | 衛生福利部社會福利政策類委託研究計畫經費編列基準表 | 衛部護字第1141461227號 | 2025-12-02 | 確認 |
 | `central/mohw/subsidy-sci-tech` | 衛生福利部補（捐）助科技發展計畫經費編列基準及使用範圍 | 衛部科字第1144060525號 | 2026-01-01 | 確認 |
 | `central/mol/minimum-wage` | 最低工資（115 年） | — | 2026-01-01 | 確認 |
@@ -19,12 +23,15 @@
 | `central/pcc/information-service-fee` | 機關委託資訊服務廠商評選及計費辦法 | 工程企字第1140100164號 | 2025-05-23 | 確認 |
 | `local/changhua/sbir-accounting` | 彰化縣地方產業創新發展計畫（地方型 SBIR）會計科目及編列原則 | — | 2025 | 待查證 |
 | `local/kaohsiung/sbir-accounting` | 115 年度高雄市政府地方產業創新研發推動計畫（地方型 SBIR）會計科目及編列原則 | — | 2026 | 確認 |
+| `private/cisa/information-service-estimation` | 中華民國資訊軟體協會資訊服務委外經費估算原則（112 年 6 月修訂） | — | 2023-06 | 確認 |
+| `private/tissa/information-service-estimation` | 115 年資訊服務委外經費估算原則 | — | 2026 | 確認 |
 
 ## 2 已公布、未生效
 
 | 路徑 | 文件 | 字號 | 生效 |
 |---|---|---|---|
 | `central/dgbas/attendance-manuscript-fee` | 中央政府各機關學校出席費及稿費支給要點 | 院授主預字第1150102318號 | 2027-01-01 |
+| `central/dgbas/common-expense` | 116 年度共同性費用編列基準表 | — | 2027-01-01 |
 | `central/mol/minimum-wage` | 最低工資（116 年） | — | 2027-01-01 |
 
 ## 3 依用途別（現行版及未生效版）
@@ -58,14 +65,75 @@
 | 專任人員年終工作獎金準備金 | ≤ 1.5 月 | `central/nstc/research-personnel-hiring` | 2025-01-01 |
 | 學生兼任人員研究津貼或工作酬金 | ≥ 6000 元/月 | `central/nstc/research-personnel-hiring` | 2025-01-01 |
 | 講師、助教級兼任人員、臨時工資 | — | `central/nstc/research-personnel-hiring` | 2025-01-01 |
+| 約聘（僱）人員酬金 | 139.1 元/薪點 | `central/dgbas/common-expense` | 2027-01-01 |
 | 每月最低工資 | 30900 元/月 | `central/mol/minimum-wage` | 2027-01-01 |
 | 每小時最低工資 | 205 元/時 | `central/mol/minimum-wage` | 2027-01-01 |
+
+### 人月報價
+
+| 項目 | 金額 | 文件 | 版本 |
+|---|---|---|---|
+| 計畫主持人 | 471669 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 專案管理師（含經營管理顧問） | 255271 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 資訊系統分析及設計師 | 233090 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 軟體開發及程式設計師 | 207486 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 資料庫專業人員 | 222210 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 網路專業人員 | 219751 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 雲端地端整合架構管理人員 | 258214 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 數據分析專業人員 | 241697 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| AI 分析專業人員 | 246940 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| UI/UX 設計專業人員 | 205109 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 資安顧問專業人員 | 296501 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 資安檢測專業人員 | 213075 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 資安監控專業人員 | 195127 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 軟體測試專業人員 | 186905 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 資訊管理及維護技術員 | 182476 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 一般辦公室事務人員 | 150897 元/人月 | `private/tissa/information-service-estimation` | 2026 |
+| 電話及網路客服人員 | 139531 元/人月 | `private/tissa/information-service-estimation` | 2026 |
 
 ### 公費
 
 | 項目 | 金額 | 文件 | 版本 |
 |---|---|---|---|
 | 公費（第 16 條第 6 項） | ≤ 0.25 比率 | `central/pcc/information-service-fee` | 2025-05-23 |
+
+### 創新或研究發展人員之人事費
+
+| 項目 | 金額 | 文件 | 版本 |
+|---|---|---|---|
+| 編列方式 | — | `central/moea/a-plus-industry-rd` | 2025 |
+| 待聘人員 | ≤ 0.3 研發人員及國際人才合計之比率 | `central/moea/a-plus-industry-rd` | 2025 |
+| 年終獎金 | ≤ 2 月 | `central/moea/a-plus-industry-rd` | 2025 |
+
+### 國外差旅費
+
+| 項目 | 金額 | 文件 | 版本 |
+|---|---|---|---|
+| 生活費日支數額之劃分 | — | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 日本東京 | 299 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 日本大阪 | 246 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 日本京都 | 282 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 日本名古屋 | 291 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 日本福岡 | 246 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 日本其他 | 209 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 韓國首爾 | 290 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 新加坡 | 452 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 美國紐約市 | 510 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 美國其他 | 320 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 英國倫敦 | 510 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 德國其他 | 340 美元/日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+| 非率團人員禮品交際及雜費 | ≤ 1100 元/人日 | `central/dgbas/overseas-travel` | 2026-01-01 |
+
+### 差旅費
+
+| 項目 | 金額 | 文件 | 版本 |
+|---|---|---|---|
+| 住宿費（平日） | ≤ 3500 元/日 | `central/dgbas/domestic-travel` | 2025-01-01 |
+| 住宿費（假日） | ≤ 4500 元/日 | `central/dgbas/domestic-travel` | 2025-01-01 |
+| 雜費 | ≤ 400 元/日 | `central/dgbas/domestic-travel` | 2025-01-01 |
+| 駕駛自用汽車 | 3 元/公里 | `central/dgbas/domestic-travel` | 2025-01-01 |
+| 駕駛自用機車 | 2 元/公里 | `central/dgbas/domestic-travel` | 2025-01-01 |
+| 交通費（飛機、高鐵、火車、船舶） | — | `central/dgbas/domestic-travel` | 2025-01-01 |
 
 ### 材料費
 
@@ -98,6 +166,9 @@
 | 膳費 | ≤ 150 元/人次 | `central/mohw/subsidy-sci-tech` | 2026-01-01 |
 | 雜支費 | ≤ 0.05 比率 | `central/mohw/subsidy-sci-tech` | 2026-01-01 |
 | 出席費 | ≤ 3000 元/次 | `central/dgbas/attendance-manuscript-fee` | 2027-01-01 |
+| 出席費 | ≤ 2500 元/次 | `central/dgbas/common-expense` | 2027-01-01 |
+| 講座鐘點費 | — | `central/dgbas/common-expense` | 2027-01-01 |
+| 辦公器具養護費 | 1048 元/人年 | `central/dgbas/common-expense` | 2027-01-01 |
 
 ### 直接薪資
 
@@ -106,11 +177,25 @@
 | 不扣薪假與特別休假之薪資（第 16 條第 3 項） | ≤ 0.16 實際薪資比率 | `central/pcc/information-service-fee` | 2025-05-23 |
 | 非經常性給與之獎金（第 16 條第 4 項） | ≤ 0.3 實際薪資比率 | `central/pcc/information-service-fee` | 2025-05-23 |
 | 雇主負擔之勞健保、墊償基金、勞退（第 16 條第 5 項） | — | `central/pcc/information-service-fee` | 2025-05-23 |
+| 中階主管（經理）——計畫主持人（62 中類電腦程式設計業） | 179946 元/月 | `private/cisa/information-service-estimation` | 2023-06 |
+| 專案管理師（62 中類） | 93345 元/月 | `private/cisa/information-service-estimation` | 2023-06 |
+| 資訊及通訊專業人員（62 中類） | 100575 元/月 | `private/cisa/information-service-estimation` | 2023-06 |
+| 資訊管理及維護技術員（62 中類） | 60018 元/月 | `private/cisa/information-service-estimation` | 2023-06 |
+| 雇主負擔之保險及提繳費（R3） | 0.197341 實際薪資比率 | `private/tissa/information-service-estimation` | 2026 |
 
 ### 研究人員費
 
 | 項目 | 金額 | 文件 | 版本 |
 |---|---|---|---|
+| 行政政策類專任研究員級 | ≤ 112000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類專任副研究員級 | ≤ 101000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類專任助理研究員級 | ≤ 91000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類專任研究助理 | ≤ 44000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類兼任研究員級 | ≤ 24000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類兼任助理研究員級 | ≤ 18000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 行政政策類兼任研究助理 | ≤ 12000 元/月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 專任研究人員年終獎金 | ≤ 1.375 月 | `central/moea/commissioned-plan` | 2021-10-29 |
+| 科技發展類計畫主持人（委辦總經費 5000 萬元以上） | 1688404 元/年 | `central/moea/commissioned-plan` | 2021-10-29 |
 | 專任研究員級 | ≤ 112000 元/月 | `central/ndc/policy-commissioned-research` | 2023-03-30 |
 | 專任副研究員級 | ≤ 101000 元/月 | `central/ndc/policy-commissioned-research` | 2023-03-30 |
 | 專任助理研究員級 | ≤ 91000 元/月 | `central/ndc/policy-commissioned-research` | 2023-03-30 |
@@ -144,4 +229,12 @@
 |---|---|---|---|
 | 補（捐）助計畫（配合政策需要者） | ≤ 0.15 業務費比率 | `central/moe/subsidy-budget-standards` | 2026-01-01 |
 | 委辦計畫 | — | `central/moe/subsidy-budget-standards` | 2026-01-01 |
+
+### 設備及投資
+
+| 項目 | 金額 | 文件 | 版本 |
+|---|---|---|---|
+| 個人電腦（含筆記型電腦）、文書編輯軟體 | — | `central/dgbas/common-expense` | 2027-01-01 |
+| 公務小客車（燃油，中央三級機關首長及公務小客車） | ≤ 850000 元/輛 | `central/dgbas/common-expense` | 2027-01-01 |
+| 公務小客車（電動，中央三級機關首長及公務小客車） | ≤ 1850000 元/輛 | `central/dgbas/common-expense` | 2027-01-01 |
 
