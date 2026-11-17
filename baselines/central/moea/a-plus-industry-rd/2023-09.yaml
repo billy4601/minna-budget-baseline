@@ -1,0 +1,52 @@
+title: 經濟部 A+ 企業創新研發淬鍊計畫——專案類計畫 計畫管理作業手冊（業界科專）
+issuer: 經濟部產業技術司
+kind: 計畫規定
+document_no:
+version_date: 2023-09                    # 封面「112 年 9 月印製」；官網下載頁標示「11209」
+effective_date:
+applies_to: [A+ 企業創新研發淬鍊計畫（業界科專）]
+source:
+  url: https://service.moea.gov.tw/EE514/wSite/public/Attachment/00106/f1747725529991.pdf
+  type: official
+  retrieved: 2026-11-17
+  archive: central/moea/a-plus-industry-rd/2023-09.pdf
+  sha256: 7a030480fafdec99903fda4007df4a05e3fddc1dc39b508abf07d2dda0f9bd7d
+fulltext: 自動擷取初稿
+status: 確認                             # 官網資料下載頁現行版
+items:
+  - category: 創新或研究發展人員之人事費
+    item: 編列方式
+    note: 依不同職級人員預計投入人月數及平均月薪編列；投入人月 = 當月投入專案時數 ÷ 當月應上班總時數
+  - category: 創新或研究發展人員之人事費
+    item: 待聘人員
+    unit: 研發人員及國際人才合計之比率
+    max: 0.30
+    note: 原則
+  - category: 創新或研究發展人員之人事費
+    item: 年終獎金
+    unit: 月
+    max: 2
+    note: 按月提列，不得超過實發數，依投入工時比例計算
+  - category: 消耗性器材及原材料費
+    item: 編列方式
+    note: 依項目、數量、單位、金額編列，至少詳列材料費中 70% 之項目；不含模具、治具、夾具等固定資產及事務性耗材
+  - category: 創新或研究發展設備使用費
+    item: 研發及生產共用設備之投入月數比例
+    unit: 占計畫期程之比率
+    max: 0.30
+    note: 原則；軟體未列入資產者不得編列設備使用費
+  - category: 創新或研究發展設備維護費
+    item: 未簽年度維護契約之設備維護費
+    unit: 占設備成本（含增添及改良）之比率/年
+    max: 0.20
+    note: 參考公式：設備成本 × 0.2 ÷ 12 × 當年度投入月數；保固期間（至少 1 年）不得列報
+  - category: 顧問及專家費
+    item: 編列範圍
+    note: 限支付顧問及國內外專家之酬勞，不含其差旅費；服務單位如為技術引進或委託研究對象，不得編列
+  - category: 國內差旅費
+    item: 編列依據
+    note: 參考執行單位內部差旅費報銷規定，且不得超過營利事業所得稅查核準則之規定；自行開車得依旅程數編列油資
+notes:
+  - 可認列薪資含本薪、主管加給、職務加給、專業津貼、加班費及年終獎金；加班費不得超過以固定月薪依勞基法倍率計算之金額。
+  - 官網資料下載頁 https://service.moea.gov.tw/EE514/tw/aiip/203-906.html 列「計畫管理手冊(專案類)-全11209」，PDF 2.84 MB，與本檔相符；PDF 檔案建立日期為 2025-05-20（重新上傳，非改版）。
+  - 110 年度以前簽約之計畫另適用「計畫管理手冊(專案類-110年度以前簽約)」。

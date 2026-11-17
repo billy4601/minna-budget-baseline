@@ -1,0 +1,60 @@
+title: 115 年度彰化縣地方產業創新研發推動計畫（地方型 SBIR）會計科目及編列原則（附件 D）
+issuer: 彰化縣政府經濟暨綠能發展處
+kind: 計畫規定
+document_no:
+version_date: 2026                 # 115 年度版；PDF 建立日期 2026-01-16
+effective_date:
+applies_to: [彰化縣地方型 SBIR]
+source:
+  url: https://www.chcg.gov.tw/DTO/greenenergy/getFile.aspx?file_id=552187&file=2&type=2&did=27965
+  type: official
+  retrieved: 2026-11-17
+  archive: local/changhua/sbir-accounting/2026.pdf
+  sha256: bdde7ccc3139838ec78749cf1264274a54a45444acda31cdb48b6339af0a28b5
+fulltext: 自動擷取初稿
+status: 確認                           # 116 年度版尚未公告
+supersedes: 2025
+items:
+  - category: 材料費
+    item: 消耗性器材及原材料費
+    unit: 元/人年
+    max: 150000
+    note: 超過應補充說明；不含事務性耗材及營業稅；禁止以「一批」「一筆」等單位編列；自籌款須不少於政府補助款
+  - category: 研發設備使用費及維護費
+    item: 設備使用費及維護費合計
+    unit: 元
+    max: 100000
+    note: 已有設備月使用費 = A × B ÷ 剩餘使用年限 ÷ 12；新增設備月使用費 = A × B ÷ 耐用年數 ÷ 12；不含營業稅及事務性設備；應加註財產編號
+  - category: 研發設備使用費及維護費
+    item: 維護費
+    note: 新增、購置 1 年內及保固期間內之設備不得編列；自行維修之工資應取具外來憑證
+  - category: 人事費
+    item: 人事費占計畫總經費比率
+    max: 0.60
+    note: 只含正式員工之薪資，不含退休金、勞健保費、交通補助、誤餐費等；平均月薪以投保薪資為準，不得高於實際薪資；自籌款須不少於政府補助款
+  - category: 人事費
+    item: 待聘人員
+    unit: 占計畫總研發人月數之比率
+    max: 0.30
+  - category: 人事費
+    item: 管理階層（總經理職以上）
+    unit: 人月/年
+    max: 4
+    note: 以不超過為宜
+  - category: 技術引進及委託研究費
+    item: 技術引進費加計委託研究費占計畫總經費比率
+    max: 0.50
+    note: 超過需說明理由；自籌款須大於政府補助款；應提供合約、草約或備忘錄
+  - category: 專利申請費
+    item: 國內專利
+    unit: 元/案
+    max: 30000
+    note: 同一專利名稱視為 1 案；不含維持年費、檢索、諮詢等；營業稅不得報支
+  - category: 專利申請費
+    item: 國外專利
+    unit: 元/案
+    max: 100000
+notes:
+  - 115 年度受理期間 2026-04-01 至 04-30；個別申請補助上限 100 萬元，聯合申請（2 家）上限 200 萬元（依縣府新聞稿）。
+  - 附件清單頁：https://www.chcg.gov.tw/DTO/greenenergy/06service/service01_con.aspx?topsn=4593&data_id=27965
+  - 原文「材料費」第 4 點編號重複，照錄。
