@@ -1,0 +1,63 @@
+title: 衛生福利部社會福利政策類委託研究計畫經費編列基準表
+issuer: 衛生福利部
+kind: 經費基準
+document_no: 衛部護字第1141461227號
+version_date: 2025-12-02
+effective_date: 2025-12-02
+applies_to: [衛福部社會福利政策類委託研究計畫, 其他社會福利政策類委託計畫（準用）]
+source:
+  url: https://www.mohw.gov.tw/dl-98218-78f57f91-8cec-4c1f-8ba8-79251301c626.html
+  type: official
+  retrieved: 2026-11-17
+status: 確認
+items:
+  - category: 人事費
+    item: 研究（計畫）主持人費
+    unit: 元/月
+    max: 20000
+  - category: 人事費
+    item: 協同主持人費
+    unit: 元/月
+    max: 18000
+  - category: 人事費
+    item: 研究員費
+    unit: 元/月
+    max: 15000
+  - category: 人事費
+    item: 專任研究助理費
+    note: 執行單位自訂標準
+  - category: 人事費
+    item: 兼任研究助理費
+    unit: 元/月
+    max: 10000
+  - category: 業務費
+    item: 資料蒐集費
+    unit: 元
+    max: 100000
+  - category: 業務費
+    item: 臨時工資
+    note: 依最低工資時薪，以每日 8 小時估算
+  - category: 業務費
+    item: 膳費（各類會議）
+    unit: 元/人次
+    max: 140
+  - category: 業務費
+    item: 膳費（講習、訓練與研討會）
+    unit: 元/人日
+    max: 500
+  - category: 業務費
+    item: 膳費（國際性會議、研討會）
+    unit: 元/人日
+    max: 1000
+  - category: 業務費
+    item: 雜支費
+    unit: 業務費比率
+    max: 0.05
+    note: 且不超過 100000 元
+  - category: 管理費
+    item: 行政管理費
+    unit: 比率
+    max: 0.10
+    note: 基數為人事費 + 業務費 − 主持人費 − 協同主持人費 − 研究員費
+notes:
+  - 出席費、稿費、審查費依出席費及稿費支給要點；鐘點費依講座鐘點費支給表；差旅費依國內外出差旅費報支要點。

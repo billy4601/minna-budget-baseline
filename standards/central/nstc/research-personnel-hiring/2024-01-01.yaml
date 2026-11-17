@@ -1,0 +1,26 @@
+title: 國家科學及技術委員會補助專題研究計畫研究人力約用注意事項
+issuer: 國家科學及技術委員會
+kind: 經費基準
+document_no: 科會綜字第1120074179B號
+version_date: 2023-11-06
+effective_date: 2024-01-01
+applies_to: [國科會補助專題研究計畫]
+source:
+  url: https://cmurdc.cmu.edu.tw/doc/202311090955081.pdf
+  type: repost
+  retrieved: 2026-11-17
+status: 確認
+superseded_by: 2025-01-01
+items:
+  - category: 人事費
+    item: 專任人員月支酬金（專科級）
+    unit: 元/月
+    min: 29500
+  - category: 人事費
+    item: 專任人員月支酬金（學士級）
+    unit: 元/月
+    min: 35200
+  - category: 人事費
+    item: 專任人員月支酬金（碩士級以上）
+    unit: 元/月
+    min: 40200

@@ -1,8 +1,9 @@
-id: mol-occupational-wage-survey
 title: 職類別薪資調查報告（資料時期 114 年 7 月）
 issuer: 勞動部
+kind: 市場行情
 document_no:
 version_date: 2026-06             # 115 年 6 月編印
+effective_date:
 applies_to: [人事費之市場行情佐證, 資訊服務委外之實際薪資]
 source:
   url: https://statdb.mol.gov.tw/html/s3/svy14/1435all.pdf
@@ -12,4 +13,4 @@ status: 待查證
 items: []
 notes:
   - 調查範圍為工業及服務業（不含公共行政業）之全時受僱員工，全國不含金門、連江。
-  - 各職類之經常性薪資、非經常性薪資待抽取（見 BACKLOG.md）。
+  - 各職類之經常性、非經常性薪資待抽取。

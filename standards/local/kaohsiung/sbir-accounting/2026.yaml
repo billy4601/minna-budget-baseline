@@ -1,0 +1,19 @@
+title: 115 年度高雄市政府地方產業創新研發推動計畫（地方型 SBIR）會計科目及編列原則
+issuer: 高雄市政府經濟發展局
+kind: 計畫規定
+document_no:
+version_date: 2026                 # 只知年度
+effective_date:
+applies_to: [高雄市地方型 SBIR]
+source:
+  url: https://orgws.kcg.gov.tw/001/KcgOrgUploadFiles/490/RelFile/80518/523868/04eaf90f-c5a7-45c9-abbd-4028d88bc213.pdf
+  type: official
+  retrieved: 2026-11-17
+status: 確認                           # 116 年度版尚未查得
+items:
+  - category: 研究發展人員人事費
+    item: 人員資格
+    note: 以公司正式員工為限，不得編列會計、財務等非研發人員；計畫主持人應列入
+  - category: 研究發展人員人事費
+    item: 可核銷項目
+    note: 只得核銷本薪、職務加給（或技術津貼）與主管加給

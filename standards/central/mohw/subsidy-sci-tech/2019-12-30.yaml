@@ -1,0 +1,21 @@
+title: 衛生福利部補（捐）助科技發展計畫經費編列基準及使用範圍
+issuer: 衛生福利部
+kind: 經費基準
+document_no: 衛部科字第1084060561號
+version_date: 2019-12-30
+effective_date:
+applies_to: [衛福部補（捐）助科技發展計畫]
+source:
+  url: https://mohw.gov.tw/dl-86376-001f9351-3219-4fd7-adee-e17bbe1b163b.html
+  type: official
+  retrieved: 2026-11-17
+status: 確認
+superseded_by: 2026-01-01
+items:
+  - category: 人事費
+    item: 研究計畫主持人費
+    unit: 元/月
+    max: 10000
+    note: 限近五年研究績效優異者
+notes:
+  - 108 年至 114 年間是否另有修正，未查證。

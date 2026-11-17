@@ -1,14 +1,15 @@
-id: ey-policy-commissioned-research
 title: 行政院所屬各機關行政及政策類委託研究計畫經費編列原則及基準
 issuer: 行政院（國家發展委員會主管）
+kind: 經費基準
 document_no: 院授發社字第1121300634號
 version_date: 2023-03-30
+effective_date:
 applies_to: [行政院所屬各機關之行政及政策類委託研究計畫]
 source:
   url: https://www.laws.taipei.gov.tw/lawatt/Law/A040030001020300-20230330-1000-001.pdf
   type: repost
   retrieved: 2026-11-17
-status: 確認
+status: 待查證                         # 國發會主管法規系統 2026-11-17 連不上，未能確認是否已有新版
 items:
   - category: 研究人員費
     item: 專任研究員級
@@ -31,5 +32,5 @@ items:
     unit: 元/月
     max: 24000
 notes:
-  - 兼任副研究員級以下、出席費、問卷調查費、雜支、行政管理費等其餘項目，待讀全文後補（見 BACKLOG.md）。
-  - 原文網址為國發會主管法規共用系統 theme.ndc.gov.tw（id=GL000020），待改用官方網址。
+  - 官方原文在國發會主管法規共用系統（theme.ndc.gov.tw，id=GL000020）。
+  - 其餘項目待讀全文後補。

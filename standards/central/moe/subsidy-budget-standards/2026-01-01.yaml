@@ -1,0 +1,75 @@
+title: 教育部補（捐）助及委辦計畫經費編列基準表（教育部補（捐）助及委辦經費核撥結報作業要點第四點附件二）
+issuer: 教育部
+kind: 經費基準
+document_no: 臺教會（三）字第1144400283A號
+version_date: 2025-04-28
+effective_date: 2026-01-01
+applies_to: [教育部補（捐）助及委辦計畫]
+source:
+  url: https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg031076/ch05/type2/gov40/num11/Eg.pdf
+  type: official                     # 行政院公報第 031 卷第 076 期
+  retrieved: 2026-11-17
+status: 確認                           # 教育部主管法規系統沿革之最後一筆即本版
+items:
+  - category: 人事費
+    item: 兼任計畫主持人
+    unit: 元/人月
+    min: 6000
+    max: 10000
+    note: 經教育部同意且符合條件之一者以 15000 元為限、符合二項以上者以 20000 元為限；每人每月支領教育部各計畫合計以 40000 元及 3 件為限
+  - category: 人事費
+    item: 兼任協同計畫主持人
+    unit: 元/人月
+    min: 5000
+    max: 7000
+  - category: 人事費
+    item: 兼任行政助理
+    unit: 元/人月
+    min: 4000
+    max: 6000
+  - category: 人事費
+    item: 專任行政助理
+    note: 執行單位自訂標準；年終獎金以 1.5 個月為限
+  - category: 業務費
+    item: 主持費、引言費
+    unit: 元/人次
+    min: 1000
+    max: 2500
+  - category: 業務費
+    item: 諮詢費、輔導費、指導費
+    unit: 元/人次
+    min: 1000
+    max: 2500
+  - category: 業務費
+    item: 訪視費
+    unit: 元/人次
+    min: 1000
+    max: 4000
+    note: 半日以 2500 元為上限
+  - category: 業務費
+    item: 評鑑費
+    unit: 元/人次
+    min: 2000
+    max: 6000
+    note: 半日以 4000 元為上限
+  - category: 業務費
+    item: 臨時工作人員、工讀費
+    note: 不得低於最低工資，上限為最低工資 1.2 倍（大專校院另有規定者從其規定）
+  - category: 業務費
+    item: 資料蒐集費
+    unit: 元
+    max: 30000
+  - category: 業務費
+    item: 半日膳費
+    unit: 元/人
+    max: 160
+  - category: 行政管理費
+    item: 補（捐）助計畫（配合政策需要者）
+    unit: 業務費比率
+    max: 0.15
+  - category: 行政管理費
+    item: 委辦計畫
+    note: 業務費 300 萬元以下按 10% 以內；超過部分按 5% 以內
+notes:
+  - 人事費占總經費比率以 50% 為原則；補（捐）助案以不補助人事費為原則。
+  - 前一版為 113-10-15 臺教會（三）字第1134400978號修正；舊版金額未收錄。

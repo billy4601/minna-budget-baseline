@@ -1,0 +1,22 @@
+title: 最低工資（115 年）
+issuer: 勞動部（行政院核定）
+kind: 法定下限
+document_no:
+version_date:
+effective_date: 2026-01-01
+applies_to: [所有計畫之人事費下限, 臨時工資, 工讀費]
+source:
+  url: https://www.mol.gov.tw/1607/1632/1633/99195/
+  type: official                     # 116 年調整新聞稿所載「由 29500 元調整」
+  retrieved: 2026-11-17
+status: 確認
+superseded_by: 2027-01-01
+items:
+  - category: 人事費
+    item: 每月最低工資
+    unit: 元/月
+    value: 29500
+  - category: 人事費
+    item: 每小時最低工資
+    unit: 元/時
+    value: 196

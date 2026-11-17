@@ -1,14 +1,15 @@
-id: nstc-commissioned-research-personnel
 title: 國家科學及技術委員會委託研究計畫人事費及管理費編列基準
 issuer: 國家科學及技術委員會
+kind: 經費基準
 document_no: 科會綜字第1110078944號
 version_date: 2022-12-30
+effective_date:                      # 未載明，以修正日命名
 applies_to: [國科會委託研究計畫（科學及技術類）, 他機關比照者（例：核安會）]
 source:
-  url: https://ord.ntua.edu.tw/upfiles/SType1/1672841183國家科學及技術委員會委託研究計畫人事費及管理編列基準.pdf
-  type: repost
+  url: https://law.nstc.gov.tw/LawContent.aspx?media=print&id=GL000018
+  type: official
   retrieved: 2026-11-17
-status: 確認
+status: 確認                           # 2026-11-17 查國科會主管法規系統，仍為現行版
 items:
   - category: 人事費
     item: 研究員級月酬勞
@@ -26,7 +27,11 @@ items:
     item: 全時研究人員年終獎金
     unit: 月
     max: 1.5
+  - category: 管理費
+    item: 管理費
+    unit: 各項經費合計之比率
+    max: 0.10
+    note: 含總包價法或單價計算法列計項目
 notes:
   - 部分時間研究人員依投入工作時間比例攤計。
-  - 行政及政策類研究計畫依行政院基準辦理（見 ey-policy-commissioned-research）。
-  - 管理費部分尚未摘錄（見 BACKLOG.md）。
+  - 行政及政策類研究計畫依國發會主管之行政院基準辦理（見 central/ndc/policy-commissioned-research）。

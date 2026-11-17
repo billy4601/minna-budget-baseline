@@ -1,0 +1,46 @@
+title: 衛生福利部補（捐）助科技發展計畫經費編列基準及使用範圍
+issuer: 衛生福利部
+kind: 經費基準
+document_no: 衛部科字第1144060525號
+version_date: 2025-09-24
+effective_date: 2026-01-01
+applies_to: [衛福部補（捐）助科技發展計畫]
+source:
+  url: https://mohw.gov.tw/dl-86704-80607b2a-5ac4-438b-b93c-0843b00de69c.html
+  type: official
+  retrieved: 2026-11-17
+status: 確認
+supersedes: 2019-12-30
+items:
+  - category: 人事費
+    item: 計畫主持人
+    unit: 元/月
+    max: 20000
+  - category: 人事費
+    item: 協同主持人
+    unit: 元/月
+    max: 18000
+  - category: 人事費
+    item: 人事費占總經費比率
+    max: 0.5
+    note: 原則；經簽奉核可者不在此限
+  - category: 人事費
+    item: 專、兼任人員工作酬金
+    note: 依受補（捐）助單位自訂標準；專任人員可按工作月數比例編列年終獎金
+  - category: 業務費
+    item: 膳費
+    unit: 元/人次
+    max: 150
+  - category: 業務費
+    item: 雜支費
+    unit: 比率
+    max: 0.05
+    note: 基數為業務費扣除國外旅費；且不超過 100000 元
+  - category: 管理費
+    item: 管理費
+    unit: 比率
+    max: 0.15
+    note: 基數為人事費 + 業務費 − 主持人費 − 國外旅費；另加設備費之管理費，最高 100000 元
+notes:
+  - 未列於基準表之項目原則上不得編列（例：學會年費、論文出版費）。
+  - 附件本身未載日期；字號取自衛福部 115 年度徵求說明書附錄，生效日取自食藥署公告（推論：附件即本版）。

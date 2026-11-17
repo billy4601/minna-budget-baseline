@@ -1,0 +1,22 @@
+title: 中央政府各機關學校出席費及稿費支給要點
+issuer: 行政院（主計總處）
+kind: 經費基準
+document_no: 院授主預字第1150102318號
+version_date: 2026-07-23
+effective_date: 2027-01-01
+applies_to: [中央政府各機關學校, 多數補助及委辦計畫之出席費、稿費、審查費]
+source:
+  url: https://law.dgbas.gov.tw/LawContent.aspx?id=FL000752
+  type: official
+  retrieved: 2026-11-17
+status: 確認
+supersedes: 2023-01-01
+items:
+  - category: 業務費
+    item: 出席費
+    unit: 元/次
+    max: 3000
+    note: 由各機關視會議諮詢性質及業務繁簡程度支給
+notes:
+  - 本次只修正第五點（出席費）；稿費支給基準數額表為 111-12-20 修正版（自 112-01-01 生效），金額待收錄。
+  - 出席費金額取自學校轉知之修正條文（https://www.tnvs.tn.edu.tw/2026/07/）。

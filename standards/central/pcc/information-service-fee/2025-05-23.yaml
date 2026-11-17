@@ -1,0 +1,38 @@
+title: 機關委託資訊服務廠商評選及計費辦法
+issuer: 行政院公共工程委員會
+kind: 經費基準
+document_no: 工程企字第1140100164號      # 本次修正第 11、12 條；第 16 條未變
+version_date: 2025-05-23
+effective_date:
+applies_to: [政府資訊服務委外採購之預算估算（服務成本加公費法）]
+source:
+  url: https://6laws.net/6law/law3/機關委託資訊服務廠商評選及計費辦法.htm
+  type: repost                       # 正式引用以全國法規資料庫為準
+  retrieved: 2026-11-17
+status: 確認
+items:
+  - category: 直接薪資
+    item: 不扣薪假與特別休假之薪資（第 16 條第 3 項）
+    unit: 實際薪資比率
+    max: 0.16
+    note: 免檢據核銷
+  - category: 直接薪資
+    item: 非經常性給與之獎金（第 16 條第 4 項）
+    unit: 實際薪資比率
+    max: 0.30
+    note: 須檢據核銷
+  - category: 直接薪資
+    item: 雇主負擔之勞健保、墊償基金、勞退（第 16 條第 5 項）
+    note: 核實給付
+  - category: 管理費用
+    item: 管理費用
+    unit: 比率
+    max: 1.00
+    note: 基數為直接薪資扣除非經常性給與之獎金
+  - category: 公費
+    item: 公費（第 16 條第 6 項）
+    unit: 比率
+    max: 0.25
+    note: 基數為（直接薪資扣除獎金）+ 管理費用；公費應為定額
+notes:
+  - 實際薪資可參考勞動部職類別薪資調查之資訊人員經常性薪資（見 central/mol/occupational-wage-survey）。
