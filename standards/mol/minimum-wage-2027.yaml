@@ -1,0 +1,26 @@
+id: minimum-wage-2027
+title: 最低工資（116 年）
+issuer: 勞動部（行政院核定）
+document_no:
+version_date: 2026-09-24          # 最低工資審議會決議
+effective_date: 2027-01-01
+applies_to: [所有計畫之人事費下限, 工作費, 工讀費]
+source:
+  url: https://www.ey.gov.tw/Page/448DE008087A1971/f56b115b-b12c-4ccd-b15f-816c42bfb1d7
+  type: official
+  retrieved: 2026-11-17
+status: 確認
+items:
+  - category: 人事費
+    item: 每月最低工資
+    unit: 元/月
+    value: 30900
+    note: 115 年為 29500
+  - category: 人事費
+    item: 每小時最低工資
+    unit: 元/時
+    value: 205
+    note: 115 年為 196
+notes:
+  - 教育部等基準之「工作費」以最低工資時薪支給、「工讀費」以 1.2 倍為上限（見 moe-subsidy-budget-standards）。
+  - 國科會專任人員專科級最低 30400 元，低於 116 年最低工資 30900 元（推論：116 年起實際不得低於 30900 元，國科會可能再修正）。

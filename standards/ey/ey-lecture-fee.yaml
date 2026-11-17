@@ -1,0 +1,32 @@
+id: ey-lecture-fee
+title: 講座鐘點費支給表
+issuer: 行政院（人事行政總處）
+document_no: 院授人給字第1070030976號
+version_date: 2018-01-23
+effective_date: 2018-02-01
+applies_to: [各機關學校辦理研習會、座談會或訓練進修, 多數補助計畫之業務費]
+source:
+  url: https://www-ws.gov.taipei/001/Upload/367/relfile/45756/7898086/7ea10c78-7c9c-47a6-82c1-68922c6cebdc.pdf
+  type: repost
+  retrieved: 2026-11-17
+status: 確認
+items:
+  - category: 業務費
+    item: 外聘國內專家學者
+    unit: 元/節
+    max: 2000
+  - category: 業務費
+    item: 外聘與主辦機關有隸屬關係之機關學校人員
+    unit: 元/節
+    max: 1500
+  - category: 業務費
+    item: 內聘主辦機關學校人員
+    unit: 元/節
+    max: 1000
+  - category: 業務費
+    item: 講座助理
+    unit: 元/節
+    note: 同一課程講座鐘點費之二分之一
+notes:
+  - 每節 50 分鐘；連續 2 節為 90 分鐘；未滿者減半。
+  - 國外專家學者及專題演講由主辦機關自訂。

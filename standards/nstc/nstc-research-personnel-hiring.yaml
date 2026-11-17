@@ -1,0 +1,35 @@
+id: nstc-research-personnel-hiring
+title: 國家科學及技術委員會補助專題研究計畫研究人力約用注意事項
+issuer: 國家科學及技術委員會
+document_no: 科會綜字第1130073511號
+version_date: 2024-10-22
+applies_to: [國科會補助專題研究計畫]
+source:
+  url: https://ncu.edu.tw/rd/upload/news/news_20241025093237_1.pdf
+  type: repost                       # 中央大學轉知國科會函
+  retrieved: 2026-11-17
+status: 確認
+items:
+  - category: 人事費
+    item: 專任人員月支酬金（專科級）
+    unit: 元/月
+    min: 30400
+  - category: 人事費
+    item: 專任人員月支酬金（學士級）
+    unit: 元/月
+    min: 36300
+  - category: 人事費
+    item: 專任人員月支酬金（碩士級以上）
+    unit: 元/月
+    min: 41500
+  - category: 人事費
+    item: 專任人員年終工作獎金準備金
+    unit: 月
+    max: 1.5
+  - category: 人事費
+    item: 學生兼任人員研究津貼或工作酬金
+    unit: 元/月
+    min: 6000
+notes:
+  - 各執行機構自訂職銜及酬金標準，國科會只訂下限。
+  - 前一版為 112 年 11 月 6 日科會綜字第1120074179B號（專科 29500、學士 35200、碩士 40200）。

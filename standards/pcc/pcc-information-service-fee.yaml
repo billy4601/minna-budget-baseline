@@ -1,0 +1,27 @@
+id: pcc-information-service-fee
+title: 機關委託資訊服務廠商評選及計費辦法（服務成本加公費法）
+issuer: 行政院公共工程委員會
+document_no:
+version_date:
+applies_to: [政府資訊服務委外採購之預算估算]
+source:
+  url: https://acc.ntou.edu.tw/var/file/88/1088/img/1348/827594116.doc
+  type: repost                       # 學校之估算原則說明，轉引辦法第 16 條
+  retrieved: 2026-11-17
+status: 推論
+items:
+  - category: 直接薪資
+    item: 非經常性給與之獎金（R1）
+    unit: 實際薪資比率
+    max: 0.30
+  - category: 直接薪資
+    item: 不扣薪假與特別休假之薪資費用（R2）
+    unit: 實際薪資比率
+    max: 0.16
+  - category: 直接薪資
+    item: 雇主負擔之勞健保、墊償基金、勞退（R3）
+    note: 核實計算
+notes:
+  - 估算式：服務費用 = 直接薪資 + 管理費用 + 公費 + 營業稅；直接薪資 = [實際薪資 ×（1 + R2 + R3）+ R1] × 投入人月數。
+  - 實際薪資建議採勞動部職類別薪資調查之資訊人員經常性薪資（見 salary/）。
+  - 比率上限轉引自學校文件，待讀全國法規資料庫之辦法原文確認。
