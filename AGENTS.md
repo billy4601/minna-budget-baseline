@@ -13,4 +13,5 @@
 9. 修改資料後執行 `python3 tools/build_index.py` 更新 `INDEX.md`，再 commit 並推送 main。
 10. 解釋函、解釋彙編、問答集一併收錄，格式依 `schema/baseline.schema.md` 第 3 節；收錄時比對現行版基準，標示 `validity`。
 11. 收錄新版時一併轉錄條文全文為 Markdown，並將原始檔案存入 Google Drive、記下 `archive` 與 `sha256`，格式依 `schema/baseline.schema.md` 第 4 節；全文是否放入公開 repo，依該節之著作權判斷。
-12. `BACKLOG.md` 記錄待收集項目；收錄完成即移除該項。
+12. 存放原始檔案時，逐檔確認已存在於 Google Drive 且大小正確，並以實際檔案計算 `sha256` 後才寫入 YAML；以瀏覽器下載者，每份檔案用一個新分頁下載，下載後即確認檔案存在。
+13. `BACKLOG.md` 記錄待收集項目；收錄完成即移除該項。
